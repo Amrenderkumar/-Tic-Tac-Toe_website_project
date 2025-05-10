@@ -1,5 +1,5 @@
 # -Tic-Tac-Toe_website_project
-🎮 Tic-Tac-Toe
+# 🎮 Tic-Tac-Toe
 A simple web-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Play against a friend in this classic 3x3 grid game and try to get three in a row!
 
 
