@@ -35,6 +35,12 @@ See what it looks like:
  Add score tracking
 
  Mobile responsiveness
+ # 🛠️ Improvements ke liye Ideas
+ AI opponent add karein (single-player mode)
+
+ Scoreboard banayein
+
+ Mobile devices ke liye UI optimize karein
  # 📄 License
 This project is licensed under the MIT License.
 ![image alt](https://github.com/Amrenderkumar/-Tic-Tac-Toe_website_project/blob/625b0051b5daf3a6d9f96667f3476e8253956e66/image.png)
