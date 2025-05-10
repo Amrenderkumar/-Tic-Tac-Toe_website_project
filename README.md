@@ -1,4 +1,7 @@
 # -Tic-Tac-Toe_website_project
+This website to create a 
+# Summry
+This project is a simple 2-player Tic-Tac-Toe game built with HTML, CSS, and JavaScript. It features a clean UI, a 3x3 grid, turn-based play (X and O), win/draw detection, and a restart button. The README includes a screenshot of the game, setup instructions, features list, and future improvement ideas. It’s beginner-friendly and licensed under MIT.
 # 🎮 Tic-Tac-Toe
 A simple web-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Play against a friend in this classic 3x3 grid game and try to get three in a row!
 
