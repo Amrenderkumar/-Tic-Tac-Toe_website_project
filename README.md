@@ -15,4 +15,14 @@ A simple web-based Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Play a
 🎨 Clean and minimalist UI
 
 ⚙️ Built with pure HTML/CSS/JS (no frameworks)
+# 🚀 Getting Started
+📂 File Structure
+arduino
+Copy
+Edit
+tic-tac-toe/
+├── index.html
+├── style.css
+├── script.js
+└── image.png
 ![image alt](https://github.com/Amrenderkumar/-Tic-Tac-Toe_website_project/blob/625b0051b5daf3a6d9f96667f3476e8253956e66/image.png)
